@@ -1,4 +1,4 @@
-# Productos_Quimicos_de_Limpieza
+# Productos Quimicos de Limpieza
 <html>
 <head>
 <title>Productos Quimicos de Limpieza </title> 
@@ -28,7 +28,7 @@ function mifoto(num) { //cambiar la imagen
 </head>
 <body>
 <div id="cabecera">
-<h1>Visor de imágenes</h1>
+<h1>Productos Quimicos de Limpieza</h1>
 </div>
 <div id="menu">
 <img src='foto1.jpg' alt='1. Clorox - Blanqueador' name='fotos1' onclick="mifoto(1)"/>
